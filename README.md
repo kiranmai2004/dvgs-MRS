@@ -5,6 +5,12 @@ Movie Recommendation System
 
 I have developed a Movie Recommendation System! Here, I curate finest movies for users to explore using **OMDB API**. Additionally, users have the opportunity to create their own personalized playlists featuring their favorite films. These playlists are publiclly accessable.
 
+## Features of project
+**Register page** consits of Name, Email, Password, Repeat Password and Contact No.
+**Login Page** consists of Username and Password with authentication.
+**Home Page** consists of Navbar (Search, Logout, Username) with routing, About website with contact and Footer.
+**Search Page** consists of search box to search for a movie by title
+
 ## How to run the project?
 1. Clone or download this repository to your local machine.
 2. Install Eclipse IDE for Enterprise Java and Web Developers https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-enterprise-java-and-web-developers and download Apache Tomcat 9 https://tomcat.apache.org/download-90.cgi and uplaod into eclipse server.
